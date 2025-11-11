@@ -1,0 +1,5 @@
+Dividend Reinvestment Simulation Report
+Beginning Portfolio Value: $12340.00
+Final Shares: 126.77
+Final Portfolio Value: $15642.81
+Total Growth Rate: 26.77%
